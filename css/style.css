@@ -880,6 +880,7 @@
 /*** Footer Start ***/
 .footer {
     background: var(--bs-primary);
+    border-left-color: blueviolet;
 }
 .footer .footer-item a {
     line-height: 30px;
